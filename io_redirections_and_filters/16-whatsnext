@@ -1,2 +1,2 @@
 #!/bin/bash
-grep test
+grep -A 3 root /etc/passws
