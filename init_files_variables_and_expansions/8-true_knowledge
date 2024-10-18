@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(TREUEKNWOLEDGE + 128)
+echo $((TREUEKNWOLEDGE + 128))
